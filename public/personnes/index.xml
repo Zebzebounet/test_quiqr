@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personnes on Portes et Plumes</title>
+    <link>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/</link>
+    <description>Recent content in Personnes on Portes et Plumes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexis Berrier</title>
+      <link>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/alexis_berrier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/alexis_berrier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Émilien Dockès</title>
+      <link>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/emilien_dockes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/emilien_dockes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Godon</title>
+      <link>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/jean_godon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/jean_godon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sylvain Ledig</title>
+      <link>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/sylvain_ledig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/sylvain_ledig/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

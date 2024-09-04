@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ with .Site.GetPage "/organisations" }}
+    {{ range .Pages }}
+      {{ $nom_orga := .Title }}
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      {{ range $.Pages }}
+        {{ $nom_bonhomme := .Title }}
+        {{ $lien_bonhomme := .Permalink }}
+        {{ range $clef, $appartenance := .Params.organisations }}
+          {{ if eq (index $appartenance "nom") $nom_orga }}
+            <article class="post-title">
+                <a href="{{ $lien_bonhomme }}" class="post-link">{{ $nom_bonhomme }}</a>
+                <div class="flex-break"></div>
+                <span class="post-date">
+                  {{ index $appartenance "role"}}
+                </span>
+            </article>
+            {{ break }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

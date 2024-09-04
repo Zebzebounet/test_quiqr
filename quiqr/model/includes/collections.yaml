@@ -1,0 +1,100 @@
+
+- key: organisations
+  dataformat: yaml
+  title: Organisations
+  itemtitle: Organisation
+  folder: content/organisations/
+  extension: md
+  fields:
+  - key: title
+    title: Nom
+    type: string
+  - key: logo
+    tip: Préférer une image carrée, à fond transparent, d'environ 200x200 px
+    title: Logo
+    path: static/images/orgas
+    type: image-select
+  - key: publishdate
+    title: Publishdate
+    type: hidden
+  - key: mainContent
+    title: Description
+    type: easymde
+  
+- key: personnes
+  dataformat: yaml
+  title: Personnes
+  itemtitle: Personne
+  folder: content/personnes/
+  previewUrlBase: /personnes/
+  extension: md
+  fields:
+  - key: title
+    title: Nom
+    type: string
+  - key: autorat
+    title: Auteur·ice
+    type: boolean
+  - key: avatar
+    tip: Préférer une image carrée, à fond transparent, d'environ 200x200 px
+    title: Avatar
+    path: static/images/personnes
+    type: image-select
+  - key: organisations
+    title: Organisations
+    fields:
+    #- key: nom
+    #  title: Organisation
+    #  _mergePartial: liste_organisations
+    #  type: select
+    - key: nom
+      arrayTitle: true
+      title: Nom
+      multiple: false
+      query_glob: quiqr/model/partials/liste_organisations.yaml
+      query_string: .options[]
+      type: select-from-query
+    - key: role
+      title: Role
+      type: string
+    type: accordion
+  - key: type
+    default: page
+    type: hidden
+  - key: mainContent
+    title: Description
+    type: easymde
+
+- key: posts
+  dataformat: yaml
+  title: Posts
+  itemtitle: Post
+  folder: content/posts/
+  previewUrlBase: /posts/
+  extension: md
+  fields:
+  - key: title
+    title: Titre
+    type: string
+  - key: autrice
+    title: Auteur·ice
+    query_glob: content/kikeki/personnes/**/index.md
+    query_string: '#parent_dir[]'
+    type: select-from-query
+  - key: type
+    default: post
+    type: hidden
+  - key: publishdate
+    title: Date de publication
+    default: now
+    type: date
+  - key: date
+    title: Date
+    default: now
+    type: date
+  - key: tags
+    title: Tags
+    type: chips
+  - key: mainContent
+    title: Contenu
+    type: easymde

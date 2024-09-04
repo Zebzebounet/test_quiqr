@@ -1,0 +1,16 @@
+{{ define "main" }}
+    {{ $taxo := "organisations" }}
+    <ul class="{{ $taxo }}">
+      {{ with ($.Site.GetPage (printf "/%s" $taxo)) }}
+        {{ range .Pages }} <!-- list terms associated with taxo -->
+          <li><a href="{{ .Permalink }}">{{ .Title}}</a>
+            <ul>
+              {{ range .Pages }} <!-- list content associated with term -->
+              <li>{{ .Title }}</li>
+              {{ end }}
+            </ul>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+{{ end }}

@@ -1,0 +1,32 @@
+baseURL: https://github.com/Zebzebounet/test_quiqr/blob/main/
+defaultContentLanguage: fr
+languageCode: fr
+title: Portes et Plumes
+theme: gokarna
+enableRobotsTXT: true
+menu:
+  main:
+    - identifier: posts
+      url: /posts/
+      pre: ""
+      post: ""
+      name: Posts
+      weight: 2
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
+    - identifier: github
+      url: https://github.com
+      weight: 4
+      pre: <span data-feather='github'></span>
+
+taxonomies:
+  categorie: 'categories'
+  tag: 'tags'
+  projet: 'projets'
+  personne: 'personnes'
+  organisation: 'organisations'
+  jeu: 'jeux'
+  document: 'documents' 
+
