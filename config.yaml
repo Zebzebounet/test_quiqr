@@ -2,8 +2,8 @@ baseURL: https://example.org
 defaultContentLanguage: fr
 languageCode: fr
 title: Portes et Plumes
-#theme: gokarna
-theme: hugo-arcana-main
+theme: gokarna
+#theme: hugo-arcana-main
 enableRobotsTXT: true
 menu:
   main:
