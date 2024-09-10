@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sylvain Ledig on Portes et Plumes</title>
-    <link>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/sylvain_ledig/</link>
+    <link>https://example.org/personnes/sylvain_ledig/</link>
     <description>Recent content in Sylvain Ledig on Portes et Plumes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/sylvain_ledig/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://example.org/personnes/sylvain_ledig/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

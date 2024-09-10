@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/tags/blabla/</loc>
+    <loc>https://example.org/tags/blabla/</loc>
     <lastmod>2019-02-07T04:47:55+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/tags/blou/</loc>
+    <loc>https://example.org/tags/blou/</loc>
     <lastmod>2019-02-07T04:47:55+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/posts/mon-premier-post/</loc>
+    <loc>https://example.org/posts/mon-premier-post/</loc>
     <lastmod>2019-02-07T04:47:55+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2019-02-07T04:47:55+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2019-02-07T04:47:55+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2019-02-07T04:47:55+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/__index/</loc>
+    <loc>https://example.org/__index/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/kikeki/personnes/</loc>
+    <loc>https://example.org/kikeki/personnes/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/pages/__index/</loc>
+    <loc>https://example.org/pages/__index/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/pages/projet/recherche/</loc>
+    <loc>https://example.org/pages/projet/recherche/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/alexis_berrier/</loc>
+    <loc>https://example.org/personnes/alexis_berrier/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/organisations/crazy_orc/</loc>
+    <loc>https://example.org/organisations/crazy_orc/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/documents/</loc>
+    <loc>https://example.org/documents/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/emilien_dockes/</loc>
+    <loc>https://example.org/personnes/emilien_dockes/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/jean_godon/</loc>
+    <loc>https://example.org/personnes/jean_godon/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/jeux/</loc>
+    <loc>https://example.org/jeux/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/kikeki/</loc>
+    <loc>https://example.org/kikeki/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/organisations/</loc>
+    <loc>https://example.org/organisations/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/pages/</loc>
+    <loc>https://example.org/pages/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/</loc>
+    <loc>https://example.org/personnes/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/organisations/portes_et_plumes/</loc>
+    <loc>https://example.org/organisations/portes_et_plumes/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/projets/</loc>
+    <loc>https://example.org/projets/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/personnes/sylvain_ledig/</loc>
+    <loc>https://example.org/personnes/sylvain_ledig/</loc>
   </url><url>
-    <loc>https://github.com/Zebzebounet/test_quiqr/blob/main/organisations/trollune/</loc>
+    <loc>https://example.org/organisations/trollune/</loc>
   </url>
 </urlset>

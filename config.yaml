@@ -1,8 +1,9 @@
-baseURL: https://github.com/Zebzebounet/test_quiqr/blob/main/
+baseURL: https://example.org
 defaultContentLanguage: fr
 languageCode: fr
 title: Portes et Plumes
-theme: gokarna
+#theme: gokarna
+theme: hugo-arcana-main
 enableRobotsTXT: true
 menu:
   main:
