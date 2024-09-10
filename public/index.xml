@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portes et Plumes</title>
-    <link>https://example.org/</link>
+    <link>https://zebzebounet.github.io/test_quiqr/</link>
     <description>Recent content on Portes et Plumes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 07 Feb 2019 04:47:55 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Feb 2019 04:47:55 +0000</lastBuildDate><atom:link href="https://zebzebounet.github.io/test_quiqr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon post test</title>
-      <link>https://example.org/posts/mon-premier-post/</link>
+      <link>https://zebzebounet.github.io/test_quiqr/posts/mon-premier-post/</link>
       <pubDate>Thu, 07 Feb 2019 04:47:55 +0000</pubDate>
       
-      <guid>https://example.org/posts/mon-premier-post/</guid>
+      <guid>https://zebzebounet.github.io/test_quiqr/posts/mon-premier-post/</guid>
       <description>Blabla texte
 sdqsdq lien Google </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.org/__index/</link>
+      <link>https://zebzebounet.github.io/test_quiqr/__index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/__index/</guid>
+      <guid>https://zebzebounet.github.io/test_quiqr/__index/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.org/pages/__index/</link>
+      <link>https://zebzebounet.github.io/test_quiqr/pages/__index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/pages/__index/</guid>
+      <guid>https://zebzebounet.github.io/test_quiqr/pages/__index/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.org/pages/projet/recherche/</link>
+      <link>https://zebzebounet.github.io/test_quiqr/pages/projet/recherche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/pages/projet/recherche/</guid>
+      <guid>https://zebzebounet.github.io/test_quiqr/pages/projet/recherche/</guid>
       <description></description>
     </item>
     

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portes et Plumes</title>
-    <link>https://example.org/kikeki/personnes/</link>
+    <link>https://zebzebounet.github.io/test_quiqr/kikeki/personnes/</link>
     <description>Recent content on Portes et Plumes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://example.org/kikeki/personnes/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://zebzebounet.github.io/test_quiqr/kikeki/personnes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
